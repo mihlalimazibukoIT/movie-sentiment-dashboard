@@ -1,5 +1,5 @@
-# 🎬 Movie Review Showdown
 
+# 🎬 Movie Review Showdown
 ### A Sentiment Analysis and Movie Review Exploration Application
 
 Movie Review Showdown is a Python-based web application designed to help users explore movie reviews, understand audience opinions, and make more informed viewing decisions. Built with Streamlit, the application combines sentiment analysis, review exploration, and an interactive question-and-answer interface in a user-friendly environment.
@@ -148,6 +148,7 @@ Movie Review Showdown was developed as a practical Python project exploring sent
 ---
 
 **Built with Python, Streamlit, and NLP. 🎬**
+
 
 
 
